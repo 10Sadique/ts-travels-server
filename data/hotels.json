@@ -1,0 +1,90 @@
+[
+    {
+        "id": "h_1",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/120397144.jpg?k=ca74ce65d75e5c0abe4a14b79923353a5920164cefb9160580b06868c236c4cc&o=&hp=1",
+        "location_id": 1,
+        "location": "Cox's Bazar",
+        "name": "Hotel Sea Crown",
+        "rating": 3
+    },
+    {
+        "id": "h_2",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/283183777.jpg?k=899b1542446c88268f790cf9968ddeffe42a7b24c7b228069de09413d5275822&o=&hp=1",
+        "location_id": 1,
+        "location": "Cox's Bazar",
+        "name": "Long Beach Hotel",
+        "rating": 4
+    },
+    {
+        "id": "h_3",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/345053324.jpg?k=be9e4c63abaa59ca9dae9284911bfc36f3d23188a0e6e25cdba77d77925e130d&o=&hp=1",
+        "location_id": 1,
+        "location": "Cox's Bazar",
+        "name": "Sea Pearl Beach Resort",
+        "rating": 5
+    },
+    {
+        "id": "h_4",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/316136590.jpg?k=c75beae137c4fa18a2ce9e08470bde9b3c8c32b77a741efa38254824fdf4a7ab&o=&hp=1",
+        "location_id": 1,
+        "location": "Cox's Bazar",
+        "name": "White Orchid",
+        "rating": 3
+    },
+    {
+        "id": "h_5",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/324712930.jpg?k=90af38e85b538de0a9f2eaf4dc1f396f771692804250a0ba324a9ee263f8dc2e&o=&hp=1",
+        "location_id": 2,
+        "location": "Shreemangal",
+        "name": "Hotel Skypark",
+        "rating": 3
+    },
+    {
+        "id": "h_6",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/297836338.jpg?k=3fd20f3b6c7f49a0412a8aa718d5fd9ee89d3f2eaf689918b3c41629ff95a285&o=&hp=1",
+        "location_id": 2,
+        "location": "Shreemangal",
+        "name": "Green Leaf Guest House",
+        "rating": 3
+    },
+    {
+        "id": "h_7",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/352080063.jpg?k=53b62a9a29f67c7104fa49e84b7b5d31732d33c6557dc5d8a23fceac9736b430&o=&hp=1",
+        "location_id": 2,
+        "location": "Shreemangal",
+        "name": "Jungle cottage",
+        "rating": 3
+    },
+    {
+        "id": "h_8",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/280188723.jpg?k=2c21ec7bac600b72e2cb4ca2712cf8f97dea64befeea1a6d587f979e6c1a209d&o=&hp=1",
+        "location_id": 3,
+        "location": "Sundarbans",
+        "name": "Hotel Sonar Bangla",
+        "rating": 4
+    },
+    {
+        "id": "h_9",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/164166296.jpg?k=84b3dc123f5b2a206c229447a7b0c693a71d91e241e21851c7c1fa792f285497&o=&hp=1",
+        "location_id": 3,
+        "location": "Sundarbans",
+        "name": "Sunderban Tiger Camp",
+        "rating": 4
+    },
+    {
+        "id": "h_10",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/205464859.jpg?k=499c714e5726f06993eaed80ec7595d86e91fa76738af8fb222c3219971951db&o=&hp=1",
+        "location_id": 3,
+        "location": "Sundarbans",
+        "name": "Solitary Nook",
+        "rating": 4
+    },
+    {
+        "id": "h_11",
+        "imgURL": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/226025181.jpg?k=abc2f9dd2941815e2dcfb445999f63912f3ea88d4266a71ed87ec98307b34e4c&o=&hp=1",
+        "location_id": 3,
+        "location": "Sundarbans",
+        "name": "Sundarban Tiger Roar Resort",
+        "rating": 4
+    }
+]

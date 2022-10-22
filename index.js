@@ -5,6 +5,7 @@ const cors = require('cors');
 const port = process.env.PORT || 5000;
 
 const places = require('./data/places.json');
+const hotels = require('./data/hotels.json');
 
 app.use(cors());
 
@@ -23,6 +24,13 @@ app.get('/places/:id', (req, res) => {
     const selectedPlace = places.find((place) => place.id === id);
 
     res.send(selectedPlace);
+});
+
+app.get('/hotels/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const selectedHotels = hotels.filter((hotel) => hotel.location_id === id);
+
+    res.send(selectedHotels);
 });
 
 app.listen(port, () => {
