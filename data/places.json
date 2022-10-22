@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "place": "Cox's Bazar",
+        "desc": "Cox's Bazar is a city, fishing port, tourism centre, and district headquarters in south eastern near Chattogram Bangladesh. It is located 150 km south of the city of Chittagong. Cox's Bazar is also known by the name Panowa, which translates literally as 'yellow flower'.",
+        "imgURL": "https://i.ibb.co/z4ScBVq/Sajek.png"
+    },
+    {
+        "id": 2,
+        "place": "Shreemangal",
+        "desc": "Sreemangal is an upazila of Moulvibazar District in the Sylhet Division of Bangladesh. It is located at the southwest of the district, and borders the Habiganj District to the west and the Indian state of Tripura to the south. Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields.",
+        "imgURL": "https://i.ibb.co/QnJFNmy/Sreemongol.png"
+    },
+    {
+        "id": 3,
+        "place": "Sundarbans",
+        "desc": "Sundarbans is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal.",
+        "imgURL": "https://i.ibb.co/VmCHXhj/sundorbon.png"
+    }
+]
