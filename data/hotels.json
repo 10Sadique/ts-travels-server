@@ -5,7 +5,8 @@
         "location_id": 1,
         "location": "Cox's Bazar",
         "name": "Hotel Sea Crown",
-        "rating": 3
+        "rating": 3,
+        "price": 159
     },
     {
         "id": "h_2",
@@ -13,7 +14,8 @@
         "location_id": 1,
         "location": "Cox's Bazar",
         "name": "Long Beach Hotel",
-        "rating": 4
+        "rating": 4,
+        "price": 239
     },
     {
         "id": "h_3",
@@ -21,7 +23,8 @@
         "location_id": 1,
         "location": "Cox's Bazar",
         "name": "Sea Pearl Beach Resort",
-        "rating": 5
+        "rating": 5,
+        "price": 449
     },
     {
         "id": "h_4",
@@ -29,7 +32,8 @@
         "location_id": 1,
         "location": "Cox's Bazar",
         "name": "White Orchid",
-        "rating": 3
+        "rating": 3,
+        "price": 210
     },
     {
         "id": "h_5",
@@ -37,7 +41,8 @@
         "location_id": 2,
         "location": "Shreemangal",
         "name": "Hotel Skypark",
-        "rating": 3
+        "rating": 3,
+        "price": 185
     },
     {
         "id": "h_6",
@@ -45,7 +50,8 @@
         "location_id": 2,
         "location": "Shreemangal",
         "name": "Green Leaf Guest House",
-        "rating": 3
+        "rating": 3,
+        "price": 129
     },
     {
         "id": "h_7",
@@ -53,7 +59,8 @@
         "location_id": 2,
         "location": "Shreemangal",
         "name": "Jungle cottage",
-        "rating": 3
+        "rating": 3,
+        "price": 179
     },
     {
         "id": "h_8",
@@ -61,7 +68,8 @@
         "location_id": 3,
         "location": "Sundarbans",
         "name": "Hotel Sonar Bangla",
-        "rating": 4
+        "rating": 4,
+        "price": 359
     },
     {
         "id": "h_9",
@@ -69,7 +77,8 @@
         "location_id": 3,
         "location": "Sundarbans",
         "name": "Sunderban Tiger Camp",
-        "rating": 4
+        "rating": 4,
+        "price": 399
     },
     {
         "id": "h_10",
@@ -77,7 +86,8 @@
         "location_id": 3,
         "location": "Sundarbans",
         "name": "Solitary Nook",
-        "rating": 4
+        "rating": 4,
+        "price": 525
     },
     {
         "id": "h_11",
@@ -85,6 +95,7 @@
         "location_id": 3,
         "location": "Sundarbans",
         "name": "Sundarban Tiger Roar Resort",
-        "rating": 4
+        "rating": 4,
+        "price": 699
     }
 ]
