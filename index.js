@@ -33,6 +33,13 @@ app.get('/hotels/:id', (req, res) => {
     res.send(selectedHotels);
 });
 
+app.get('/hotel/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedHotel = hotels.find((hotel) => hotel.id === id);
+
+    res.send(selectedHotel);
+});
+
 app.listen(port, () => {
     console.log('Listening on port: ', port);
 });
